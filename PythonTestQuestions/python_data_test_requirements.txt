@@ -24,3 +24,5 @@ same type delivered later on with different file dates and from different groups
         iv. Risk Score
         v. File date
      b. Only include records in which the patients risk has increased.
+3. Include tests 
+4. Provide All necessary information for the team to get this up and running.
